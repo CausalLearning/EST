@@ -31,6 +31,7 @@ pip install -r requirements.txt
 
    ```
    ├── DFEW
+   └── videos
       └── 14400
           ├── 001.jpg
           ├── 002.jpg
@@ -41,6 +42,12 @@ pip install -r requirements.txt
           ├── 002.jpg
           ├── 003.jpg
           ├── ...
+    └── data_list
+       ├── Train_DFEW_all_clip.txt
+       ├── Train_DFEW_all_clip_set_2.txt
+       ├── Train_DFEW_all_clip_set_3.txt
+       ├── Train_DFEW_all_clip_set_4.txt
+       ├── Train_DFEW_all_clip_set_5.txt
    ```
 
 ## Training
