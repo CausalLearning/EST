@@ -56,7 +56,7 @@ python main.py --train_video_root /data/Your_Path/data_path/DFEW/Data_105img --t
 You can evaluate a trained model by running:
 
 ```
-python main.py --train_video_root /data/yuanyuan/fcx/WECLNet_per/data_path/DFEW/Data_105img --train_list_root /data/yuanyuan/fcx/WECLNet_per/data_path/train_test_set/Train_DFEW_all_clip_set_1.txt --test_video_root /data/yuanyuan/fcx/WECLNet_per/data_path/DFEW/Data_105img --test_list_root /data/yuanyuan/fcx/WECLNet_per/data_path/train_test_set/Test_DFEW_all_clip_set_1.txt --dataset_name DFEW --name dfew_transformer --gpu_ids 3 --batch 8 --phase test --eval_model_path MODEL_PATH
+python main.py --train_video_root /data/Your_Path/data_path/DFEW/Data_105img --train_list_root /data/Your_Path/data_path/train_test_set/Train_DFEW_all_clip_set_1.txt --test_video_root /data/Your_Path/data_path/DFEW/Data_105img --test_list_root /data/Your_Path/data_path/train_test_set/Test_DFEW_all_clip_set_1.txt --dataset_name DFEW --name dfew_transformer --gpu_ids 3 --batch 8 --phase test --eval_model_path MODEL_PATH
 ```
 
 Here, `MODEL_PATH` denotes for the path of the trained model.
