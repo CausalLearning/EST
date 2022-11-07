@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Code and Data Preparation
 
-1. Download from this repository and download  the pre-trained ResNet-18 from [Baidu Drive](https://pan.baidu.com/s/1lnO1alaaP23NlZcPyNOhgg) (1req)
+1. Download the code from this repository and download  the pre-trained ResNet-18 from [Baidu Drive](https://pan.baidu.com/s/1lnO1alaaP23NlZcPyNOhgg) (1req)
 
 2. Prepare the dataset.
 
