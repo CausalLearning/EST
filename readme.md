@@ -2,7 +2,7 @@
 
 Pytorch implementation of paper: 
 
-> **Expression Snippet Transformer for Robust Video-based Facial Expression Recognition **
+> **Expression Snippet Transformer for Robust Video-based Facial Expression Recognition**
 
 ## Content
 
