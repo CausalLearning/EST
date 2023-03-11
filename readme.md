@@ -33,14 +33,14 @@ pip install -r requirements.txt
    ├── DFEW
    └── videos
       └── 14400
+          ├── 000.jpg
           ├── 001.jpg
           ├── 002.jpg
-          ├── 003.jpg
           ├── ...
       └── 14401
+          ├── 000.jpg
           ├── 001.jpg
           ├── 002.jpg
-          ├── 003.jpg
           ├── ...
     └── data_list
        ├── Train_DFEW_all_clip.txt
