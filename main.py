@@ -77,7 +77,7 @@ def validate(val_loader, model,args):
             order_label = torch.autograd.Variable(order_label)
 
             # compute output
-            _, per_score,_,_ = model(input_var, per=data['per_shuffle'])
+            _, per_score = model(input_var, per=data['per_shuffle'])
             ####################################################
 
             #################### test cls
