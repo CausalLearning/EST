@@ -13,7 +13,7 @@ Pytorch implementation of paper:
 
 ## Dependencies
 
-Please make sure Python>=3.6 is installed
+Python Version: 3.7.9
 
 Required packages are listed in requirements.txt. You can install them by running:
 
