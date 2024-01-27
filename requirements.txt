@@ -6,7 +6,7 @@ argon2-cffi==21.1.0
 astunparse==1.6.3
 attrs==21.2.0
 audioread==2.1.9
-av @ file:///home/conda/feedstock_root/build_artifacts/av_1611413270203/work
+av==8.0.3
 backcall==0.2.0
 bleach==4.1.0
 cached-property==1.5.2
@@ -94,7 +94,7 @@ pandocfilters==1.5.0
 parso==0.8.2
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow @ file:///tmp/build/80754af9/pillow_1609786740831/work
+Pillow==8.1.0
 pipreqs==0.4.10
 pooch==1.4.0
 portalocker==2.3.0
@@ -133,7 +133,7 @@ segmentation-models-pytorch==0.2.0
 Send2Trash==1.8.0
 Shapely==1.7.1
 simplejson==3.17.2
-six @ file:///tmp/build/80754af9/six_1605205313296/work
+six==1.15.0
 sklearn==0.0
 smear-cuda==0.0.0
 SoundFile==0.10.3.post1
@@ -162,7 +162,7 @@ tornado==6.1
 tqdm==4.62.2
 traitlets==5.1.1
 ttach==0.0.3
-typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1611751222202/work
+typing-extensions==4.5.0
 urllib3==1.26.3
 visdom==0.1.8.9
 vit-pytorch==0.20.8
