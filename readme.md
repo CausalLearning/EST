@@ -69,3 +69,5 @@ python main.py --train_video_root /data/Your_Path/data_path/DFEW/videos --train_
 Here, `MODEL_PATH` denotes for the path of the trained model.
 
 You can download our trained model on DFEW from [Baidu Drive](https://pan.baidu.com/s/1BkZnt5IP-xcXcSiTlcuKsA) (owu2)
+
+**IF YOU HAVE ANY PROBLEM, PLEASE CONTACT wangwenbin@cug.edu.cn OR COMMIT ISSUES**
